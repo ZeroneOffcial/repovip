@@ -18,7 +18,7 @@ async def _(client, message):
     msg = MSG.START(message)
 
     await message.reply_photo(
-        photo="https://files.catbox.moe/109k7i.jpg", 
+        photo="https://files.catbox.moe/ep6iv4.jpg", 
         caption=msg, 
         reply_markup=InlineKeyboardMarkup(buttons)
     )
