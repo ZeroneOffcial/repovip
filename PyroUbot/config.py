@@ -21,6 +21,6 @@ RMBG_API = os.getenv("RMBG_API", "ybwGCgqJngeYGQLiWAjxrYoz")
 
 MONGO_URL = os.getenv("MONGO_URL", "mongodb+srv://ZeroneOffcial:ZeroneOffcial@cluster0.3ypqmpw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
-LOGS_MAKER_UBOT = os.getenv("LOGS_MAKER_UBOT", "-1002866809765")
+LOGS_MAKER_UBOT = os.getenv("LOGS_MAKER_UBOT", "-1002677345498")
 
-USER_GROUP = os.getenv("USER_GROUP", "@channelszerone")
+USER_GROUP = os.getenv("USER_GROUP", "@publikchangli")
