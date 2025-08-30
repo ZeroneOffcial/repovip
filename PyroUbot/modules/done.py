@@ -39,7 +39,7 @@ async def done_command(client, message):
             f"💸 <b>ɴᴏᴍɪɴᴀʟ : {price}</b>\n"
             f"📆 <b>ᴡᴀᴋᴛᴜ : {time}</b>\n"
             f"💳 <b>ᴘᴀʏᴍᴇɴᴛ : {payment}</b>\n</blockquote>"
-            f"<blockquote>Contact : @bloodskil2</blockquote>"
+            f"<blockquote>Contact : @ZeroneOfficial</blockquote>"
         )
         await izzy_ganteng.edit(response)
 
